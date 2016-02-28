@@ -1,0 +1,7 @@
+.idea/
+submissions/*
+*.csv
+*.data
+lections/
+*.names
+.ipynb_checkpoints/
